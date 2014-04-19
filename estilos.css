@@ -17,3 +17,19 @@ body
 {
 	font: bold 36px verdana, sans-serif;
 }
+
+#con_radius
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	border-radius: 20px;
+}
+
+#tit_radius
+{
+	font: bold 36px vardana, sans-serif;
+}
