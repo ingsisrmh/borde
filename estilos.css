@@ -33,3 +33,20 @@ body
 {
 	font: bold 36px vardana, sans-serif;
 }
+
+#con_radius2
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	border-radius: 20px 10px 30px 50px;
+}
+
+#tit_radius2
+{
+	font: bold 36px vardana, sans-serif;
+}
+
