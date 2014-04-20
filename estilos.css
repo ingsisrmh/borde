@@ -18,7 +18,7 @@ body
 	font: bold 36px verdana, sans-serif;
 }
 
-#con_radius
+#contenedor_radius
 {
 	display: block;
 	width: 500px;
@@ -29,12 +29,12 @@ body
 	border-radius: 20px;
 }
 
-#tit_radius
+#titulo_radius
 {
-	font: bold 36px vardana, sans-serif;
+	font: bold 36px verdana, sans-serif;
 }
 
-#con_radius2
+#contenedor_radius2
 {
 	display: block;
 	width: 500px;
@@ -45,8 +45,103 @@ body
 	border-radius: 20px 10px 30px 50px;
 }
 
-#tit_radius2
+#titulo_radius2
 {
-	font: bold 36px vardana, sans-serif;
+	font: bold 36px verdana, sans-serif;
 }
 
+#contenedor_radius3
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	border-radius: 20px / 10px;
+}
+
+#titulo_radius3
+{
+	font: bold 36px verdana, sans-serif;
+}
+
+#contenedor_shadow
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	box-shadow: rgb(150,150,150) 5px 5px;
+}
+
+#titulo_shadow
+{
+	font: bold 36px verdana, sans-serif;
+}
+
+#contenedor_shadow2
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	box-shadow: rgb(150,150,150) 5px 5px 10px;
+}
+
+#titulo_shadow2
+{
+	font: bold 36px verdana, sans-serif;
+}
+
+#contenedor_shadow2a
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	/*border: 1px solid #999999;*/
+	background: rgb(220,255,220);
+	box-shadow: rgb(150,220,150) 5px 5px 140px;
+}
+
+#titulo_shadow2a
+{
+	font: bold 36px verdana, sans-serif;
+}
+
+#contenedor_shadow3
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+	box-shadow: rgb(150,150,150) 5px 5px 10px inset;
+}
+
+#titulo_shadow3
+{
+	font: bold 36px verdana, sans-serif;
+}
+
+#contenedor_text
+{
+	display: block;
+	width: 500px;
+	margin: 50px auto;
+	padding: 15px;
+	border: 1px solid #999999;
+	background: #FFFFFF;
+}
+
+#titulo_text
+{
+	font: bold 36px verdana, sans-serif;
+	text-shadow: rgb(90,150,90) 3px 3px 5px;
+}
